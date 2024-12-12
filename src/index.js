@@ -17,6 +17,7 @@ mongoose.connect('mongodb+srv://admin:admin@shashank0.0d3xg.mongodb.net/?retryWr
     console.log(error);
 });
 
+
 // const uri = "mongodb+srv://admin:admin@shashank0.0d3xg.mongodb.net/?retryWrites=true&w=majority&appName=Shashank0";
 // const clientOptions = { serverApi: { version: '1', strict: true, deprecationErrors: true } };
 // async function run() {
